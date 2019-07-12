@@ -19,7 +19,7 @@ npm run build
 1. Run the build package file
 2. Find file (Reproduce step)
 - create file:`C:\Users\Administrator\AppData\Roaming\lowdb-demo\ccc_data.json`
-
+- **Keep the app open**
 3. Force the computer to shut down or cut off the power
 
 4. Restart the computer
